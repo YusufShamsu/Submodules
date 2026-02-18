@@ -1,2 +1,23 @@
 git clone https://github.com/YusufShamsu/Submodules.git
-Once any changes identified , pull the submodule repo and then stage the changes from the main repo . 
+Once any changes identified , pull the submodule repo and then stage the changes from the main repo .
+
+
+git checkout main 
+
+git pull
+
+git submodule update --remote
+
+git submodule update --remote --merge
+
+git submodule update --init --recursive
+
+
+git config submodule.recurse true
+
+
+submodulle changes into main repo 
+
+main repo branch switching on submodule commits 
+
+
