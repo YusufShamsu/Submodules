@@ -1,4 +1,2 @@
-Sample file 
-Updated from submodule 
-Now updating from Main repo
-Adding entries on submodule repo 
+git clone https://github.com/YusufShamsu/Submodules.git
+Once any changes identified , pull the submodule repo and then stage the changes from the main repo . 
