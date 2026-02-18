@@ -4,3 +4,4 @@ Pull the changes and push the changes
 
 
 
+Updating the changes to observe branching stragety.
