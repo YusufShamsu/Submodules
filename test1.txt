@@ -1,1 +1,6 @@
-Added file from submodule repo
+On Submodule changes can be pushed from standalone repo or from the Main repo , 
+but main repo will point to older commit only 
+Pull the changes and push the changes 
+
+
+
